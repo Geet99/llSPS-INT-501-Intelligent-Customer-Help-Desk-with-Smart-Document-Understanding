@@ -1,7 +1,7 @@
 # llSPS-INT-501-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
 
-This repository contains the documentation and code elements of the Intelligent Customer Help Desk with Smart Document Understanding chat bot developed using various IBM Watson Services for backend and Node-Red for front end. It comprises of the project report, the IBM Discovery functions and Watson Skills, the Node-Red flow of the chatbot.
+This repository contains the documentation and code elements of the Intelligent Customer Help Desk with Smart Document Understanding chat bot developed using various IBM Watson Services for backend and Node-Red for front end. It comprises of the project report, the IBM Discovery functions, Watson Assistant skills and the Node-Red flow of the chatbot.
 
 Problem Description:
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.
