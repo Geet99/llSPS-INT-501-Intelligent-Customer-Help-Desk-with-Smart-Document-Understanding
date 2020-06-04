@@ -14,4 +14,4 @@ Guide used in Watson Discovery: ecobee3_userguide.
 
 Node-Red Dashboard link after deploying: https://node-red-puufy.eu-gb.mybluemix.net/ui/
 
-Youtube video link: https://youtu.be/D98KYzkotVk
+Youtube video link: 
